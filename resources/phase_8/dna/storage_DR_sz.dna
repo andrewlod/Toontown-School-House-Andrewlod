@@ -1,0 +1,85 @@
+
+place_model "phase_8/models/neighborhoods/daisy_restaurant.bam" [
+	store_node [ "prop" "daisy_restaurant" "" ]
+        ]
+
+place_model "phase_6/models/golf/outdoor_zone_entrance" [
+	store_node [ "prop" "prop_outdoor_zone_entrance" "" ]
+	]
+
+place_model "phase_8/models/props/restaurant_chair" [
+	store_node [ "prop" "restaurant_chair" "" ]
+	]
+
+place_model "phase_8/models/props/dinner_table" [
+	store_node [ "prop" "dinner_table" "" ]
+	]
+
+place_model "phase_8/models/props/chicken" [
+	store_node [ "prop" "chicken" "" ]
+	]
+
+place_model "phase_8/models/props/pasta" [
+	store_node [ "prop" "pasta" "" ]
+	]
+
+place_model "phase_8/models/props/coffee" [
+	store_node [ "prop" "coffee" "" ]
+	]
+
+place_model "phase_8/models/props/fork" [
+	store_node [ "prop" "fork" "" ]
+	]
+
+place_model "phase_8/models/props/knife" [
+	store_node [ "prop" "knife" "" ]
+	]
+
+place_model "phase_5/models/props/birthday-cake-mod" [
+	store_node [ "prop" "cake" "" ]
+	]
+
+place_model "phase_8/models/props/chocopie" [
+	store_node [ "prop" "chocopie" "" ]
+	]
+
+place_model "phase_8/models/props/table_cloth" [
+	store_node [ "prop" "table_cloth" "" ]
+	]
+
+place_model "phase_8/models/props/dumplings" [
+	store_node [ "prop" "dumplings" "" ]
+	]
+
+place_model "phase_8/models/props/fries" [
+	store_node [ "prop" "fries" "" ]
+	]
+
+place_model "phase_8/models/props/blueberry_cupcake" [
+	store_node [ "prop" "blueberry_cupcake" "" ]
+	]
+
+place_model "phase_8/models/props/cupcake2" [
+	store_node [ "prop" "strawberry_cupcake" "" ]
+	]
+
+place_model "phase_8/models/props/table2" [
+	store_node [ "prop" "small_table" "" ]
+	]
+
+place_model "phase_8/models/props/red_carpet" [
+	store_node [ "prop" "red_carpet" "" ]
+	]
+
+place_model "phase_8/models/props/piano2" [
+	store_node [ "prop" "piano" "" ]
+	]
+
+
+store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy" ]
+
+hood_model "phase_6/models/props/signs_DD" [
+	store_node [ "sign" "DD_sign1" ]
+	store_node [ "sign" "DD_sign2" ]
+	store_node [ "sign" "DD_sign3" ]
+	]
