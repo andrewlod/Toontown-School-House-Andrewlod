@@ -38,5 +38,6 @@ This source code requires libuv.dll in the astron folder to run. Here are links 
 After downloading the file just drop it in the astron folder
 
 # Demo
+This will open YouTube.
 
 [![Demo](https://img.youtube.com/vi/NaqVejz9ftM/maxresdefault.jpg)](https://www.youtube.com/watch?v=NaqVejz9ftM)
