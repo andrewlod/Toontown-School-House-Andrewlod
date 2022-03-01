@@ -39,4 +39,4 @@ After downloading the file just drop it in the astron folder
 
 # Demo
 
-![Demo](./readme_assets/demo_video.mp4)
+./readme_assets/demo_video.mp4
