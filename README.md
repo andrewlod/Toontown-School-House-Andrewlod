@@ -38,6 +38,6 @@ This source code requires libuv.dll in the astron folder to run. Here are links 
 After downloading the file just drop it in the astron folder
 
 # Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NaqVejz9ftM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NaqVejz9ftM" target="_blank">
+ <img src="http://img.youtube.com/vi/NaqVejz9ftM/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
