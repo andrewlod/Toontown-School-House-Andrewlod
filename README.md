@@ -39,4 +39,4 @@ After downloading the file just drop it in the astron folder
 
 # Demo
 
-./readme_assets/demo_video.mp4
+[![Demo](https://img.youtube.com/vi/NaqVejz9ftM/maxresdefault.jpg)](https://www.youtube.com/watch?v=NaqVejz9ftM)
