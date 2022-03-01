@@ -1,5 +1,10 @@
+# Toontown-School-House-Andrewlod
+
+This repository has been forked from https://github.com/Toontown-Open-Source-Initiative/Toontown-School-House and some new content has been added to the game, such as new areas and admin commands. In the bottom of this repository, there is a video showcasing the game and all changes that I worked on through time ([Go to demo](#demo)).
+
 # Toontown-School-House
-Welcome to the Toontown School House repistory!
+
+Welcome to the Toontown School House repository!
 
 Toontown School House is a course dedicated to teaching members of the Toontown community how to develop for the game. For more information, head over to [this](https://www.reddit.com/r/Toontown/comments/doszgg/toontown_school_house_learn_to_develop_for/) Reddit post.
 
@@ -31,5 +36,5 @@ This source code requires libuv.dll in the astron folder to run. Here are links 
 [Libuv.dll (32-bit)](https://cdn.discordapp.com/attachments/638485243560460309/640339222682664973/libuv.dll)
 [Libuv.dll(64-bit)](https://cdn.discordapp.com/attachments/638485243560460309/640339153346887696/libuv.dll)
 After downloading the file just drop it in the astron folder
-# Test
-Ignore this! It's a test!!
+
+# Demo
