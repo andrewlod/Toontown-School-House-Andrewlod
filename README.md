@@ -39,4 +39,4 @@ After downloading the file just drop it in the astron folder
 
 # Demo
 
-https://www.dropbox.com/s/z60msn3podtn6la/Toontown%20Online%20%5BDEV%5D%202022-03-01%2016-10-13.mp4
+![Demo](./readme_assets/demo_video.mp4)
