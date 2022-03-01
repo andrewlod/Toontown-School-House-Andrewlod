@@ -39,5 +39,5 @@ After downloading the file just drop it in the astron folder
 
 # Demo
 
-https://user-images.githubusercontent.com/39911925/156234582-b87930fa-6e27-4bcc-9321-1548a3fe6419.mp4
+https://www.youtube.com/watch?v=NaqVejz9ftM
 
